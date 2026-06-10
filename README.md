@@ -32,8 +32,8 @@ Mapa com localização dos eventos: Especialmente útil se os eventos forem em d
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome:Guilherme Ferrerira Valadares
+- Matricula:914106
 
 ## Prints do trabalho
 
